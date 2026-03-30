@@ -21,6 +21,7 @@
     "axios": "0.30.3",
     "braces": "3.0.3",
     "clsx": "^1.2.1",
+    "cross-spawn": "7.0.5",
     "encoding": "^0.1.13",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
